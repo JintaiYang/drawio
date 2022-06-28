@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T03:23:05.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="J2VnrT7qSy-0FyqCiFG5" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T03:27:03.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Fp_BLfQTv-7IEkqGzxIk" version="20.0.3" type="github">
   <diagram id="CmjZ321qXh3RZILmZCXj" name="第 1 页">
-    <mxGraphModel dx="1117" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1797" dy="1003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
             <mxPoint x="625" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7c0cfbOuJPa_niKVqYr-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="587" y="394" as="sourcePoint" />
             <mxPoint x="627" y="394" as="targetPoint" />
@@ -78,26 +78,26 @@
         </mxCell>
         <mxCell id="m7c0cfbOuJPa_niKVqYr-22" value="" style="endArrow=none;dashed=1;html=1;rounded=1;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="480" as="sourcePoint" />
-            <mxPoint x="260" y="160" as="targetPoint" />
+            <mxPoint x="260" y="450" as="sourcePoint" />
+            <mxPoint x="260" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c0cfbOuJPa_niKVqYr-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="102" y="480" as="sourcePoint" />
-            <mxPoint x="102" y="160" as="targetPoint" />
+            <mxPoint x="102" y="450" as="sourcePoint" />
+            <mxPoint x="100" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c0cfbOuJPa_niKVqYr-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="480" as="sourcePoint" />
-            <mxPoint x="590" y="160" as="targetPoint" />
+            <mxPoint x="590" y="450" as="sourcePoint" />
+            <mxPoint x="590" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c0cfbOuJPa_niKVqYr-25" value="" style="endArrow=none;dashed=1;html=1;rounded=0;dashPattern=1 4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="810" y="480" as="sourcePoint" />
-            <mxPoint x="810" y="160" as="targetPoint" />
+            <mxPoint x="810" y="450" as="sourcePoint" />
+            <mxPoint x="810" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m7c0cfbOuJPa_niKVqYr-28" value="1. 推荐框架设计" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;" vertex="1" parent="1">
@@ -114,6 +114,15 @@
         </mxCell>
         <mxCell id="m7c0cfbOuJPa_niKVqYr-35" value="2.定价模型调研" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;" vertex="1" parent="1">
           <mxGeometry x="682.5" y="380" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-37" value="负责项目" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#CD332A;" vertex="1" parent="1">
+          <mxGeometry x="150" y="188" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-38" value="项目拆解" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#CD332A;" vertex="1" parent="1">
+          <mxGeometry x="370" y="188" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-40" value="完成的工作" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#CD332A;" vertex="1" parent="1">
+          <mxGeometry x="664.5" y="187" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
