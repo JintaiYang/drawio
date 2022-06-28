@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T02:38:09.871Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.3" etag="BWNNAXT6zkBrN1_WrRNY" type="github"><diagram id="CmjZ321qXh3RZILmZCXj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-28T02:57:35.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Wd71oy9_rWdExkn9w_7i" version="20.0.3" type="github">
+  <diagram id="CmjZ321qXh3RZILmZCXj" name="第 1 页">
+    <mxGraphModel dx="1377" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="220" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-2" value="1. 推荐框架设计&lt;br&gt;2. 离线模型训练&lt;br&gt;3.在线服务部署&lt;br&gt;4.离线效果分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-3" value="【服务+】智能营销" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-4" value="业务痛点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-5" value="模型训练" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-6" value="AB方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-7" value="营销引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-8" value="在线服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-9" value="结果归因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="369" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="111" y="343" width="470" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-11" value="&lt;br&gt;1. 多方数据协调&lt;br&gt;2. 定价模型调研&lt;br&gt;3. AB方案设计" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="591" y="343" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-12" value="逆向二手单定价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="131" y="363" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-13" value="业务痛点" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="271" y="363" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-14" value="数据分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="363" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-15" value="智能定价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="271" y="403" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-16" value="定价引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="471" y="403" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-17" value="AB方案" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="471" y="363" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m7c0cfbOuJPa_niKVqYr-18" value="运筹模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="403" width="90" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
