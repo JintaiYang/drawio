@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T08:13:32.621Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.1" etag="uSLjWfjKxPYsA4dn0lNr" type="github"><diagram id="0d_ut0WmNH7dI-ibBs3p">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-01T08:39:36.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WQd1bm9erGRj6Ko7XXyi" version="20.2.1" type="github">
+  <diagram id="0d_ut0WmNH7dI-ibBs3p" name="第 1 页">
+    <mxGraphModel dx="1181" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P1bSGM74OCymADJrnlDI-2" value="数仓" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bSGM74OCymADJrnlDI-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P1bSGM74OCymADJrnlDI-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="290" as="sourcePoint" />
+            <mxPoint x="280" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1bSGM74OCymADJrnlDI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P1bSGM74OCymADJrnlDI-4" target="P1bSGM74OCymADJrnlDI-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bSGM74OCymADJrnlDI-4" value="智能&lt;br&gt;权益&lt;br&gt;在线&lt;br&gt;服务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="490" y="190" width="56" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bSGM74OCymADJrnlDI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P1bSGM74OCymADJrnlDI-5" target="P1bSGM74OCymADJrnlDI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bSGM74OCymADJrnlDI-5" value="智能&lt;br&gt;权益&lt;br&gt;离线&lt;br&gt;服务" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="56" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bSGM74OCymADJrnlDI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P1bSGM74OCymADJrnlDI-6" target="P1bSGM74OCymADJrnlDI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bSGM74OCymADJrnlDI-6" value="Redis&lt;br&gt;权益&lt;br&gt;分配&lt;br&gt;结果" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="195" width="61.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bSGM74OCymADJrnlDI-10" value="出参：分配结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bSGM74OCymADJrnlDI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="P1bSGM74OCymADJrnlDI-11" target="P1bSGM74OCymADJrnlDI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P1bSGM74OCymADJrnlDI-11" value="入参：用户ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
