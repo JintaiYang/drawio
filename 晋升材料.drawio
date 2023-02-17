@@ -1,1 +1,135 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T07:19:54.807Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.20" etag="NRpwR13R4V29WV_IuMkk" type="github"><diagram name="第 1 页" id="IimC38TZ5ozDidSI9xtI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-17T08:48:47.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NrKKD82WxasS9Fo8Xdh9" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="IimC38TZ5ozDidSI9xtI">
+    <mxGraphModel dx="2483" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="deylKBLWcx-nHvbVOKOh-1" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;strokeColor=#666666;fontColor=#333333;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="386" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-4" value="1. 推荐框架设计" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-18" y="390" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-5" value="2.离线模型训练" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="414" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-2" value="3. 在线服务部署" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-17" y="438" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-3" value="4.离线效果分析" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="462" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-6" value="【服务+】智能营销" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CD332A;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="406" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-13" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;strokeColor=#666666;fontColor=#333333;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="230" height="204" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-14" value="1. 推荐框架设计" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="324.5" y="346" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-15" value="2.离线模型训练" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="370" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-16" value="3. 在线服务部署" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="325.5" y="394" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-17" value="4.离线效果分析" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="418" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-18" value="【快运】散单权益" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CD332A;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="362" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-19" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;strokeColor=#666666;fontColor=#333333;fillColor=none;container=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="150" width="340" height="336" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-20" value="1. 推荐框架设计" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="672" y="260" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-21" value="2.离线模型训练" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="284" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-22" value="3. 在线服务部署" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="673" y="308" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-23" value="4.离线效果分析" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=none;fillColor=#CD332A;container=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="332" width="95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-24" value="存客增长" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CD332A;strokeColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="276" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="423.6" as="sourcePoint" />
+            <mxPoint x="210" y="423.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="355.6" as="sourcePoint" />
+            <mxPoint x="550" y="355.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-28" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;" edge="1" parent="1" source="deylKBLWcx-nHvbVOKOh-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="360" as="sourcePoint" />
+            <mxPoint x="760" y="50" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="532" as="sourcePoint" />
+            <mxPoint x="900" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-30" value="小而美" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-31" value="xxxx" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300.5" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-32" value="核心&amp;amp;&lt;br&gt;xxx" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-33" value="299w" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="325" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-34" value="888w" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="225" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-35" value="901w" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="655" y="35" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="deylKBLWcx-nHvbVOKOh-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="360" as="sourcePoint" />
+            <mxPoint x="760" y="50" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="346" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-38" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670" y="80" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-41" value="" style="endArrow=none;html=1;rounded=0;startArrow=none;" edge="1" parent="1" source="deylKBLWcx-nHvbVOKOh-36" target="deylKBLWcx-nHvbVOKOh-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="354" as="sourcePoint" />
+            <mxPoint x="760" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315.5" y="248" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="deylKBLWcx-nHvbVOKOh-43" value="技术价值曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="15" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
